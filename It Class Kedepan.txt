@@ -1,2 +1,6 @@
 Informatic class hmpi
+- desain
 - git & github
+* Figma
+- Phyton
+- 
