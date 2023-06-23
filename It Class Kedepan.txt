@@ -5,3 +5,4 @@ Informatic class hmpi
 - Phyton
 - JavaScript 
 - PHP
+- C++
