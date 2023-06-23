@@ -3,4 +3,4 @@ Informatic class hmpi
 - git & github
 * Figma
 - Phyton
-- 
+- JavaScript 
